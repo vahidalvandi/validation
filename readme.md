@@ -1,11 +1,4 @@
-### :red_circle: This package will no longer be develop and supported :red_circle:
-.  
-.  
-.  
-.  
-.  
-.  
-.  
+
 [![Build Status](https://travis-ci.org/anetwork/validation.svg?branch=master)](https://travis-ci.org/anetwork/validation)
 [![Latest Stable Version](https://poser.pugx.org/anetwork/validation/v/stable)](https://packagist.org/packages/anetwork/validation)
 [![Total Downloads](https://poser.pugx.org/anetwork/validation/downloads)](https://packagist.org/packages/anetwork/validation)
