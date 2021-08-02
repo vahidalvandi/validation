@@ -107,6 +107,7 @@ class ValidationRules
         ValidationMessages::setCustomMessages( $validator );
 
         $ibanReplaceValues = array();
+        $value = 'ir' . $value;
 
         if (!empty($value)) {
                 $value = preg_replace('/[\W_]+/', '', strtoupper($value));
